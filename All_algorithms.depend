@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1695641036 source:c:\users\bogdan\desktop\tehnici_avansate_de_programare\laborator\all_algorithms\graph.cpp
+	"Graph.hpp"
+
+1695643307 c:\users\bogdan\desktop\tehnici_avansate_de_programare\laborator\all_algorithms\graph.hpp
+	<unordered_set>
+	<unordered_map>
+	<list>
+	<vector>
+	<utility>
+	<limits>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1695644640 source:c:\users\bogdan\desktop\tehnici_avansate_de_programare\laborator\all_algorithms\main.cpp
+	"Graph.hpp"
+	"Search.hpp"
+	<iostream>
+
+1695643428 source:c:\users\bogdan\desktop\tehnici_avansate_de_programare\laborator\all_algorithms\parallel.cpp
+	"Graph.hpp"
+	<omp.h>
+	<queue>
+	<iostream>
+	<unordered_set>
+	<float.h>
+
+1695642682 source:c:\users\bogdan\desktop\tehnici_avansate_de_programare\laborator\all_algorithms\search.cpp
+	"Search.hpp"
+	<queue>
+	<stack>
+	<unordered_set>
+	<iostream>
+
+1695641918 c:\users\bogdan\desktop\tehnici_avansate_de_programare\laborator\all_algorithms\search.hpp
+	"Graph.hpp"
+	<unordered_map>
+	<unordered_set>
+	<functional>
+
